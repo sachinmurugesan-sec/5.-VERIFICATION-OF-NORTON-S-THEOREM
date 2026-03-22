@@ -23,21 +23,12 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+![WhatsApp Image 2026-03-22 at 11 57 49 PM](https://github.com/user-attachments/assets/e6775b8e-bc52-4472-8c0e-c07e675d4b80)
 
-**To measure IL**
+![WhatsApp Image 2026-03-22 at 11 57 49 PM (1)](https://github.com/user-attachments/assets/5f02f136-512f-4bf6-8bb4-16fb864f2df7)
 
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
 
  
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
 
 
 **PROCEDURE:**
@@ -70,25 +61,14 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
-
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
+![WhatsApp Image 2026-03-22 at 11 57 49 PM (1)](https://github.com/user-attachments/assets/c468f249-3663-4a29-a120-52d91a5c3125)
 
 
-**TABULAR COLUMN:3**
+![WhatsApp Image 2026-03-22 at 11 57 49 PM (2)](https://github.com/user-attachments/assets/e1391b36-0893-4df5-9c86-bcbfa8b47c70)
 
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
+![WhatsApp Image 2026-03-22 at 11 57 49 PM (2)](https://github.com/user-attachments/assets/eb57e932-d969-4917-b56a-956c168f4876)
 
 Practical value of IL (from tabulation 1) =2.3mA
 
@@ -101,5 +81,6 @@ Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
 
 
 **RESULT:**
+![WhatsApp Image 2026-03-22 at 11 57 49 PM (3)](https://github.com/user-attachments/assets/69f13c7c-60ea-4d9c-84c8-9a422094e528)
 
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
